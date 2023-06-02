@@ -1,0 +1,50 @@
+.navbar{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+    cursor: pointer;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    top: 10px;
+    cursor: pointer;
+}
+.home{
+    color: #fff;
+    padding-left: 130px;
+    position: fixed;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.movies{
+    color: #fff;
+    padding-left: 200px;
+    position: fixed;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.tvshows{
+    color: #fff;
+    padding-left: 270px;
+    position: fixed;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.mylist{
+    color: #fff;
+    right: 80px;
+    position: fixed;
+    padding-top: 10px;
+    text-decoration: none;
+}

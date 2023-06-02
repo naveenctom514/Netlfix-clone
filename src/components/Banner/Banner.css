@@ -1,0 +1,48 @@
+.banner{
+    background-size: cover;
+    height: 450px;
+    color: rgb(255, 255, 255);
+}
+.content{
+    padding-left: 50px;
+    padding-top: 100px;
+    max-width:500px ;
+   
+}
+
+.buttonone{
+    color: rgb(0, 0, 0);
+    outline:none;
+    border:none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgb(146, 135, 135);
+}
+.buttontwo{
+    color: rgb(0, 0, 0);
+    outline:none;
+    border:none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgb(146, 135, 135);
+}
+.buttontwo:hover{
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.buttonone:hover{
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+
